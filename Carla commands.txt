@@ -1,0 +1,3 @@
+how to let vehicles drive unsafely: Python spawn_npc.py -n --safe
+how to change the map: python config.py --map Town0(insert number here)
+how to spawn people/walkers: Python spawn_npc.py --number-of-walkers (insert number here)
